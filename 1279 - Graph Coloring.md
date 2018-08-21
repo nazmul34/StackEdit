@@ -8,9 +8,10 @@ Number of color is K. In the RREF(Reduced Row-Echelon Form) matrix, if there is 
    
    *free element = n - number of pivot element*  
    
-   in the RREF matrix. Pivot element have only one solution.But free element can have infinity number of solution. Here number of color is K, so each free element can have K kind of solution and over all K^
+   in the RREF matrix. Pivot element have only one solution.But free element can have infinity number of solution. Here number of color is K, so each free element can have K kind of solution and overall   *K^( free elment )*  solution.
+  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODU3OTMzLC0xOTE2OTk3NDM5LC00MT
-g2NDYzNDAsODQyMTg4NTEyXX0=
+eyJoaXN0b3J5IjpbMTQ3MTg0NDM2MCwtMTkxNjk5NzQzOSwtND
+E4NjQ2MzQwLDg0MjE4ODUxMl19
 -->
