@@ -7,9 +7,10 @@ Number of color is K. In the RREF(Reduced Row-Echelon Form) matrix, if there is 
  ans would be , *K^(free elment)* .  
    
    *Free element = n - number of pivot element*  
-   in the matrix after 
+   
+   in the RREF matrix.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIzMzkwMjIsLTQxODY0NjM0MCw4ND
+eyJoaXN0b3J5IjpbLTE5MTY5OTc0MzksLTQxODY0NjM0MCw4ND
 IxODg1MTJdfQ==
 -->
