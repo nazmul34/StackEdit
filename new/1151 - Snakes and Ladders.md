@@ -20,7 +20,7 @@
 	6Ex=6+(Ex+1....+Ex+6)
      => (Ex+1....+Ex+6)-6Ex=-6
 	
-  suppose, (x+5 and x+6 is > 100) then 6Ex would be 4Ex... because those two expected value is   not in a valid state.
+  suppose, (x+5 and x+6 is > 100) then 6Ex would be 4Ex... because those two expected value is   not in a valid state(>100).
   so eqn. will be.
 
       (Ex+1....+Ex+6)-4Ex=-6
@@ -28,5 +28,5 @@
 after that we could find the solution using gaussian elimination.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk0Mzc0MzRdfQ==
+eyJoaXN0b3J5IjpbMTcxNzIxNzQzMl19
 -->
