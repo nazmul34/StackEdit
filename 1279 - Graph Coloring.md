@@ -8,9 +8,9 @@ Number of color is K. In the RREF(Reduced Row-Echelon Form) matrix, if there is 
    
    *free element = n - number of pivot element*  
    
-   in the RREF matrix.
+   in the RREF matrix. Pivot element have only
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDIwNTg2NSwtMTkxNjk5NzQzOSwtND
-E4NjQ2MzQwLDg0MjE4ODUxMl19
+eyJoaXN0b3J5IjpbLTE4MDE2MzI2NTEsLTE5MTY5OTc0MzksLT
+QxODY0NjM0MCw4NDIxODg1MTJdfQ==
 -->
