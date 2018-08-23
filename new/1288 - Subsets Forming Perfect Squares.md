@@ -1,6 +1,7 @@
 # 1288 - Subsets Forming Perfect Squares
-
+##  Problem Idea:
+Less then 300 , there are only 62 prime number.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDQ4MjAzXX0=
+eyJoaXN0b3J5IjpbMTUxNDQ2MTg3Ml19
 -->
