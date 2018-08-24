@@ -1,8 +1,8 @@
 # SUBXOR - SubXor
 ##  Problem Idea:
 
-In this program, we found that
+This problem can be solved by Tri tree. Each time we add a substring  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODA5NTQzNF19
+eyJoaXN0b3J5IjpbMTU4MDI0MjAyNl19
 -->
