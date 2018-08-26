@@ -1,9 +1,9 @@
 # CodeChef - TSUBSTR
 ##  Problem Idea:
-The problem is about finding k'th string and number of different substring. I use Suffix automata and DP to find the solution.
+The problem is about finding the k'th substring and number of different substring. I use Suffix automata and DP to find the solution.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzQwMTA0Nl19
+eyJoaXN0b3J5IjpbLTIxMDQxNzU4MjldfQ==
 -->
