@@ -6,8 +6,8 @@ At most 10 string with 10^5 size is given. All are in lower case. Find the **lon
 ##  Problem Idea:
 
  1. At first we add the first string to suffix automata. 
- 2. 
+ 2. For the other string, we only 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTE5NDA1XX0=
+eyJoaXN0b3J5IjpbLTc1MDU2MDQyNiwtNDA1MTk0MDVdfQ==
 -->
