@@ -1,13 +1,13 @@
 # SPOJ - LCS2
 ## About problem:
-At most 10 string with 10^5 size is given. All are in lower case. Find the **longest common substring(lcs)** among them.
+At most 10 string with 10^5 size is given. All are in lower case. Find the **longest common substring(LCS)** among them.
 
 
 ##  Problem Idea:
 
  1. At first we add the first string to suffix automata. 
- 2. For the other string, we only 
+ 2. For the other string, we only find its **LCS**  with first string. We save
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDU2MDQyNiwtNDA1MTk0MDVdfQ==
+eyJoaXN0b3J5IjpbLTcxMDU4NTgwMSwtNDA1MTk0MDVdfQ==
 -->
