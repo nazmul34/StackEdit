@@ -2,7 +2,7 @@
 # HackerRank - mining
 
 ## About problem:  
-The problem is about divide the n element into K part. W
+The problem is about divide the n element into K part. Each of K part result value is depend 
 
   
 
@@ -12,5 +12,5 @@ The problem is about divide the n element into K part. W
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNDk0OTgxXX0=
+eyJoaXN0b3J5IjpbMTY3MjQzMzAwNF19
 -->
