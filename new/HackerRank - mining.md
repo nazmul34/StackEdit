@@ -2,15 +2,15 @@
 # HackerRank - mining
 
 ## About problem:  
-
+The problem is about divide the n element into K part. W
 
   
 
 ## Problem Idea:  
 
- 1. I use red black tree to update and find k'th element.
+ 1. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzM0MTgyM119
+eyJoaXN0b3J5IjpbNDUyNDk0OTgxXX0=
 -->
