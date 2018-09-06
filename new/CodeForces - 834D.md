@@ -1,7 +1,7 @@
 # CodeForces - 834D
 
 ## About problem:  
-N(<=35000) element is given. Divide them  
+N(<=35000) element is given. Divide them into K parts, so that their sum become maximum. Each part result is number of different element.
 
   
 
@@ -11,5 +11,5 @@ N(<=35000) element is given. Divide them
  2. For pre-processing  I use a while loop to find that particular suitable value.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgwNzAyN119
+eyJoaXN0b3J5IjpbLTEwMzg1MDUxNzFdfQ==
 -->
