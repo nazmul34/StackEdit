@@ -9,8 +9,9 @@ In this problem main topic is find the k-th most wage. There are some query whic
 
 ## Problem Idea:  
 
- 1. I use red black tree to update and 
+ 1. I use red black tree to update and find k'th element.
+ 2. Pair is used, because  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAyNDY5MF19
+eyJoaXN0b3J5IjpbMTU5Nzk4MDYyMiwtMTk0MDI0NjkwXX0=
 -->
