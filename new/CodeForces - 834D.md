@@ -8,8 +8,8 @@ N(<=35000) element is given. Divide them into K parts, so that their sum become 
 ## Problem Idea:  
 
  1. I use divide and conquer for the solution.
- 2. For pre-processing  I use a while loop to find that parti 
+ 2. For cost calculation I just use sqrt-root decomposition
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM0NTY1NTZdfQ==
+eyJoaXN0b3J5IjpbNDY4Mjc0MDY0LC0xMTIzNDU2NTU2XX0=
 -->
