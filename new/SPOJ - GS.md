@@ -6,8 +6,8 @@ A tree of N(<=15) node is given. From a node a parson can visit all its adjacent
 
 ## Problem Idea:  
 
- 1. 
+ 1. I use gaussian elimination to solve this problem. For calculation of
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjA2NjMyM119
+eyJoaXN0b3J5IjpbMTA1Mjc3Mzg2NSwxNTM2MDY2MzIzXX0=
 -->
