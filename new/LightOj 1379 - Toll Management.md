@@ -10,14 +10,10 @@ A graph is given with 1000 node and 50000 edge. Find those path from **s** to **
  2. Then i finally check each edge:   
  
 
-    1.  if((lev[0][j]+y+lev[1][x])<=p)
-    
-2.  {
-    
-3.  mx=max(mx,y);
-    
-4.  }
+    if(lev[x]+cost_of_the_edge+lev[y]<=p)
+    {
+			mx=max(mx,
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDQyNjY3NF19
+eyJoaXN0b3J5IjpbMjAxNjU3OTI5N119
 -->
