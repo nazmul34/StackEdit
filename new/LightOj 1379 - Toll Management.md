@@ -15,6 +15,7 @@ A graph is given with 1000 node and 50000 edge. Find those path from **s** to **
     		mx=max(mx,cost_of_the_edge);  
     }
 
+here x-y is the edge.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc5MjMxMzddfQ==
+eyJoaXN0b3J5IjpbMTMyMzU4OTkzNV19
 -->
