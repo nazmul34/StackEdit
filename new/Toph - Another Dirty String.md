@@ -13,7 +13,7 @@ Find the length of the longest common substring of  **A**  and  **B**, which doe
 
 ## Problem Idea:  
 
- 1. First for each index **i ( 0<=i<A.size() )** I found the 
+ 1. First for each index **i ( 0<=i<A.size() )** I found the maximum position I can take to the right A[i...j], so that that does not contain C as substring.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzQ3NTE3NywxNjM2NDYyMTEyXX0=
+eyJoaXN0b3J5IjpbMjA2MDQ3MTg4MCwxNjM2NDYyMTEyXX0=
 -->
