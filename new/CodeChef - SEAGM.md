@@ -12,8 +12,9 @@ Here is an example of a game: Suppose the numbers are  **A**  = 1003,  **M**  = 
 
 ## Problem Idea:  
 
- 1. 
+ 1. 1st i find all the number removing each digit.
+ 2. Then we mod those number by M.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDc1MjExMywtNTYxMzAxMzA3XX0=
+eyJoaXN0b3J5IjpbMTUzODQyNTA1NiwtNTYxMzAxMzA3XX0=
 -->
