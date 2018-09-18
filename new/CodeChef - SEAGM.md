@@ -14,8 +14,8 @@ Here is an example of a game: Suppose the numbers are  **A**  = 1003,  **M**  = 
 
  1. 1st I find all the number removing each digit.
  2. Then we mod those number by M suppose store in ara[].
- 3. Then I build a graph if it is possible to go 
+ 3. Then I build a graph if it is possible to go from x to y (y=x+ara[i] )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzQ1MjI4NywtNTYxMzAxMzA3XX0=
+eyJoaXN0b3J5IjpbLTIxNDcyMDU5NjIsLTU2MTMwMTMwN119
 -->
