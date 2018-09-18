@@ -9,14 +9,11 @@ Find the length of the longest common substring of  **A**  and  **B**, which doe
 
 1 ≤ T ≤ 100
 
-1 ≤ |A|, |B|, |C| ≤ 105
+1 ≤ |A|, |B|, |C| ≤ 10^5  
 
 ## Problem Idea:  
 
- 1. First I found the xor of node 0 to  all other node.
- 2. Then I add this number to a tri tree.
- 3. Then for each node I found the maximum xor value possible. Maximum for all the node is the ans.
-
+ 1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjkyODA0Nl19
+eyJoaXN0b3J5IjpbMTYzNjQ2MjExMl19
 -->
