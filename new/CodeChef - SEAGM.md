@@ -9,8 +9,8 @@ n number is given. At first x=0. Two player play a game. In each tern a player c
 ## Problem Idea:  
 
  1. This problem can be solved by DP. But how can we check which number we have taken. n=100 so bitmask is not possible.
- 2.  We can find those number by using 
+ 2.  We can find those number by using x. If x==gcd(x,number) then we can find how many number with common gcd x is taken. Other number is not 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMxNjY3NzZdfQ==
+eyJoaXN0b3J5IjpbLTEzNzU3MjAxMDldfQ==
 -->
