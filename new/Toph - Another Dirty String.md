@@ -17,8 +17,8 @@ Find the length of the longest common substring of  **A**  and  **B**, which doe
  2. Then I join string A and B and find the suffix sort array and lcp.
  3. Now I consider x as a common substring between between last index of A and B in the suffix sort array. At first x=0.
  4. If I found a suffix of string A, then I update x with maximum possible length of suffix A is possible(starting at SA[i]) without C as substring.
- 5. If previous index is for
+ 5. If previous suffix is for B then we update max with comparering lcp. Or if we found a suffix of B we up
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODQwNjYxNCwtMTExMDgxODEwLDE2Mz
+eyJoaXN0b3J5IjpbLTk1NDE1ODIzNywtMTExMDgxODEwLDE2Mz
 Y0NjIxMTJdfQ==
 -->
