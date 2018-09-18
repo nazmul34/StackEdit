@@ -15,8 +15,8 @@ Here is an example of a game: Suppose the numbers are  **A**  = 1003,  **M**  = 
  1. 1st I find all the number removing each digit.
  2. Then we mod those number by M suppose store in ara[].
  3. Then I build a graph if it is possible to go from x to y (y=x+ara[i] )%M . Here x,y<M .
- 4. In the reverse graph if it is possible  to move from 0 to a node then cou 
+ 4. In the reverse graph if it is possible  to move from 0 to a node then count is increased. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODEwNzc0OSwtNTYxMzAxMzA3XX0=
+eyJoaXN0b3J5IjpbLTM2Mjc0NjU0NywtNTYxMzAxMzA3XX0=
 -->
