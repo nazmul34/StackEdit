@@ -13,7 +13,9 @@ Find the length of the longest common substring of  **A**  and  **B**, which doe
 
 ## Problem Idea:  
 
- 1. First for each index **i ( 0<=i<A.size() )** I found the maximum position I can take to the right A[i...j], so that that does not contain C as substring.
+ 1. First for each index **i ( 0<=i<A.size() )** I found the maximum position I can take to the right A[i...j], so that that does not contain C as substring. We can do it but running a KMP.
+ 2. Then I join string A and B and find the suffix sort array and lcp.
+ 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDQ3MTg4MCwxNjM2NDYyMTEyXX0=
+eyJoaXN0b3J5IjpbLTExMTA4MTgxMCwxNjM2NDYyMTEyXX0=
 -->
