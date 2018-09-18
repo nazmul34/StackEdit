@@ -8,9 +8,9 @@ n number is given. At first x=0. Two player play a game. In each tern a player c
 
 ## Problem Idea:  
 
- 1. This problem can be solved by DP. But how can we check which number we have taken. n=100 so bitmust is not possible.
- 2.  
+ 1. This problem can be solved by DP. But how can we check which number we have taken. n=100 so bitmask is not possible.
+ 2.  We can find those number by using 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjE5NTQwN119
+eyJoaXN0b3J5IjpbLTE4MDMxNjY3NzZdfQ==
 -->
