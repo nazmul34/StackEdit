@@ -1,7 +1,7 @@
 # CodeChef - SEAGM
 
 ## About problem:  
-n number is given. At first x=0. Two player play a game. In each tern a player choose a number and make x=gcd(x,number). If x=1 of i becomes n+1
+n number is given. At first x=0. Two player play a game. In each tern a player choose a number and make x=gcd(x,number) and that number can be used by any of them. If x=1 or no number left that player loose.  
   
 
 ## Problem Idea:  
@@ -9,5 +9,5 @@ n number is given. At first x=0. Two player play a game. In each tern a player c
  1. I use gaussian elimination to solve this problem. For calculation of all the equation of expected value, gaussian elimination is needed.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjA5MDc1N119
+eyJoaXN0b3J5IjpbMTUzOTgzODE0Ml19
 -->
