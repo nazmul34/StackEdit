@@ -5,11 +5,11 @@
 ## Access-Control-Allow-Origin
 1. **Setup** : app.use(cors({origin: 'http://localhost:3000'}))
 2. **Or** res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
-3. use 
+3. Replace  'http://localhost:3000' with '*' to allow all website. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQxNjA4MjgsLTEwOTg5Nzg4NjEsMT
-MxNTYxNzM3MF19
+eyJoaXN0b3J5IjpbMTYwMTY3NDA2NSwtMTA5ODk3ODg2MSwxMz
+E1NjE3MzcwXX0=
 -->
