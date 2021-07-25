@@ -12,8 +12,9 @@ The  **`Access-Control-Allow-Headers`**  response header is used in response to 
 
 This header is required if the request has an  [`Access-Control-Request-Headers`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Request-Headers)  header.
 
-
+## Access-Control-Allow-Credentials
+1. Usually
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE2Mjg4NzEsLTE0OTAyNTE1NTUsMT
+eyJoaXN0b3J5IjpbLTIxMDg1NTE3NDYsLTE0OTAyNTE1NTUsMT
 YwMTY3NDA2NSwtMTA5ODk3ODg2MSwxMzE1NjE3MzcwXX0=
 -->
