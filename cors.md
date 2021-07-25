@@ -14,8 +14,10 @@ This header is required if the request has an  [`Access-Control-Request-Headers`
 
 ## Access-Control-Allow-Credentials
 1. By default it is false, usually this header is used for sending cookie token to the browser.
-2. 
+2. The  **`Access-Control-Allow-Credentials`**  response header tells browsers whether to expose the response to frontend JavaScript code when the request's credentials mode ([`Request.credentials`](https://developer.mozilla.org/en-US/docs/Web/API/Request/credentials)) is  `include`.
+When a request's credentials mode ([`Request.credentials`](https://developer.mozilla.org/en-US/docs/Web/API/Request/credentials)) is  `include`, browsers will only expose the response to frontend JavaScript code if the  `Access-Control-Allow-Credentials`  value is  `true`.
+Credentials are cookies, authorization headers or TLS client certificates.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MzQ3ODUyLC0xNDkwMjUxNTU1LDE2MD
-E2NzQwNjUsLTEwOTg5Nzg4NjEsMTMxNTYxNzM3MF19
+eyJoaXN0b3J5IjpbLTE2ODE0ODI1NywtMTQ5MDI1MTU1NSwxNj
+AxNjc0MDY1LC0xMDk4OTc4ODYxLDEzMTU2MTczNzBdfQ==
 -->
