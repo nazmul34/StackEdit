@@ -11,7 +11,9 @@
 The  **`Access-Control-Allow-Headers`**  response header is used in response to a  [preflight request](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request)  which includes the  [`Access-Control-Request-Headers`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Request-Headers)  to indicate which HTTP headers can be used during the actual request.
 
 This header is required if the request has an  [`Access-Control-Request-Headers`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Request-Headers)  header.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAyNTE1NTUsMTYwMTY3NDA2NSwtMT
-A5ODk3ODg2MSwxMzE1NjE3MzcwXX0=
+eyJoaXN0b3J5IjpbLTE0ODE2Mjg4NzEsLTE0OTAyNTE1NTUsMT
+YwMTY3NDA2NSwtMTA5ODk3ODg2MSwxMzE1NjE3MzcwXX0=
 -->
